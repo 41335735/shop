@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>cn.icloudit</groupId>
+    <artifactId>e08-shop-commodity-1815</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>e08-shop-commodity-dao-1815</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>cn.icloudit</groupId>
+  		<artifactId>e08-shop-commodity-api-1815</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  
+  </dependencies>
+</project>
